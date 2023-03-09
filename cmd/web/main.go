@@ -3,7 +3,7 @@ package main
 import (
 	"log"
 	"net/http"
-	"github.com/rostis232/booking2/handlers"
+	"github.com/rostis232/booking2/internal/handlers"
 )
 
 const portNumber = ":8080"
